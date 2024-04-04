@@ -17,7 +17,7 @@ public class Main {
 
                     case "usd" -> System.out.println("netice" + deyer * 1);
                     case "azn" -> System.out.println("netice" + deyer * 1.7);
-                    case "euro" -> System.out.println("netice" + deyer * 92);
+                    case "euro" -> System.out.println("netice" + deyer * 0.92);
 
                 }
                         case  "azn":
